@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T10:50:09.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GZJPA2fgFCFfhVyhFbIt" version="20.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T10:52:52.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MZBp2SIrK1QxPjL2Hi6u" version="20.8.6" type="github">
   <diagram id="tCGXWT_r_tcxS9mnZwyS" name="Page-1">
     <mxGraphModel dx="860" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,6 +161,9 @@
         </mxCell>
         <mxCell id="pUD-tCBiniD4an03szl6-67" value="Elastic Load Balancing" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.groupCenter;grIcon=mxgraph.aws4.group_elastic_load_balancing;grStroke=1;strokeColor=#007DBC;fillColor=none;verticalAlign=top;align=center;fontColor=#007DBC;dashed=0;spacingTop=25;" parent="1" vertex="1">
           <mxGeometry x="340" y="-840" width="140" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="b5eloCtFHpBhcPnE_8zZ-14" value="IASON G. O.&lt;br&gt;&lt;br&gt;&amp;nbsp;Peer-graded Assignment: Capstone Projec&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="18" y="-1150" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
